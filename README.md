@@ -14,6 +14,7 @@ The assessment focused on identifying weaknesses that could allow unauthorized a
 | Assessment Type | Full black-box penetration test |
 | Duration | 5 days |
 | Batch | B083-NetworkWalks |
+| Pentester | Balogun Esther |
 | Date | 30 September 2026 |
 | Authorization | Written permission granted |
 | Scope | Target domain only |
@@ -178,3 +179,8 @@ The backup exposes every employee's personal data (names, national IDs, phones, 
 | E-mail spoofing exposure (SPF `~all` / DMARC `p=none`) | Medium |
 | robots.txt discloses sensitive paths | Low |
 | No WAF / no DNSSEC / exposed error log | Low |
+
+## Author
+
+**Balogun Esther** - Cybersecurity Professional | Batch B083
+Networkwalks Cybersecurity & Ethical Hacking Internship | Week 04
