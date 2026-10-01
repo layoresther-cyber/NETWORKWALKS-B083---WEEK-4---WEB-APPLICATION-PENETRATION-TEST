@@ -168,7 +168,7 @@ Find the staff salaries and shareholder details of the hospital
 
 ![robots](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f06%20robots.txt.png?)
 ![old listing](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f07%20old-listing.png?)
-![sql backup](f10-sql-backup.png)
+![sql backup](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f08%20sql-backup.png?)
 
 The backup exposes every employee's personal data (names, national IDs, phones, **salaries**) and the hospital's **shareholder register** - satisfying Milestone 3. No exploitation required.
 
