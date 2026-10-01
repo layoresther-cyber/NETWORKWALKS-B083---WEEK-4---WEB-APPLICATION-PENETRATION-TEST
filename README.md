@@ -62,7 +62,7 @@ The following reconnaissance tools were used to gather information about the tar
 
 ![whois](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f01%20whois.png?)
 ![nslookup](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f04%20nslookup.png?)
-![whatweb](f03-whatweb.png)
+![whatweb](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f02%20whatweb.png?)
 ![wafw00f](f04-wafw00f.png)
 ![dnsrecon](f05-dnsrecon.png)
 
