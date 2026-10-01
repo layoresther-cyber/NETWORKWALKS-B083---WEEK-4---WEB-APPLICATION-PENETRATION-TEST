@@ -65,6 +65,7 @@ The following reconnaissance tools were used to gather information about the tar
 ![whatweb](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f02%20whatweb.png)
 ![wafw00f](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f03%20wafw00f.png?)
 ![dnsrecon](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f05%20dnsrecon.png?)
+![dnsrecon](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f05%20dnsrecon.png?)
 
 **Findings:** Namecheap shared hosting (IP redacted-in-summary), LiteSpeed + OpenResty/CDN, Mediroza CMS 1.4.2, **WAF**, **SPF `~all`** (softfail) + **DMARC `p=none`** (e-mail spoofing exposure), **DNSSEC unsigned**.
 
@@ -84,6 +85,7 @@ The portal contained three password-protected/encrypted patient laboratory repor
 ### Evidence
 
 ![Patient Portal SQL injection test and successful access](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f10%20patient%20login.png?)
+![Patient Portal SQL injection test and successful access](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f11%20patient%20login%20successful.png%20.png?)
 
 ---
 
