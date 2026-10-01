@@ -83,7 +83,7 @@ The portal contained three password-protected/encrypted patient laboratory repor
 
 ### Evidence
 
-![Patient Portal SQL injection test and successful access](./03-patient-portal-sqli-access.png)
+![Patient Portal SQL injection test and successful access](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f10%20patient%20login.png?)
 
 ---
 
