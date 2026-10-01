@@ -166,7 +166,7 @@ Find the staff salaries and shareholder details of the hospital
 
 `robots.txt` advertises a hidden `/old/` directory; **directory listing is enabled**, exposing a full SQL database backup that anyone can download without logging in.
 
-![robots](f06-robots.png)
+![robots](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f06%20robots.txt.png?)
 ![old listing](f07-old-listing.png)
 ![sql backup](f10-sql-backup.png)
 
