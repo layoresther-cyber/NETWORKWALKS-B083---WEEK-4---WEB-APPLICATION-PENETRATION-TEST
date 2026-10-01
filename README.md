@@ -189,6 +189,9 @@ The backup exposes every employee's personal data (names, national IDs, phones, 
 | robots.txt discloses sensitive paths | Low |
 | No WAF / no DNSSEC / exposed error log | Low |
 
+Full write-up: W4-PM-FINAL-Report-B083-Aime-Botuku.docx
+
+
 ## Author
 
 **Balogun Esther** - Cybersecurity Professional | Batch B083
