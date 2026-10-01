@@ -145,7 +145,8 @@ The passwords recovered were:
 
 ### Evidence
 
-![Patient PDF password cracking](./05-patient-pdf-password-cracking.png)
+![Patient PDF password cracking](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f12%20patient-portal-pdf-hash-extract.png?)
+![Patient PDF password cracking](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f12%20patient-portal-pdf-hash-extract.png?)
 
 ### Result
 
