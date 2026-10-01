@@ -15,7 +15,7 @@ The assessment focused on identifying weaknesses that could allow unauthorized a
 | Duration | 5 days |
 | Batch | B083-NetworkWalks |
 | Pentester | Balogun Esther |
-| Date | 30 September 2026 |
+| Date | 01 October 2026 |
 | Authorization | Written permission granted |
 | Scope | Target domain only |
 
@@ -60,6 +60,7 @@ The following reconnaissance tools were used to gather information about the tar
 | Nikto | Scanned the web server for potentially interesting files, configurations, and known issues |
 | robots.txt | Reviewed the site's robots exclusion file for potentially exposed paths and resources |
 
+
 ![whois](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f01%20whois.png?)
 ![nslookup](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f04%20nslookup.png?)
 ![whatweb](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f02%20whatweb.png)
@@ -81,6 +82,7 @@ I made an authentication attempt. I was able to gain access to:
 **https://medirozahospital.com/patient/portal.php**
 
 The portal contained three password-protected/encrypted patient laboratory reports.
+
 
 ### Evidence
 
@@ -143,6 +145,7 @@ The passwords recovered were:
 | patient_report_2.pdf | ******** |
 | patient_report_3.pdf | ******* |
 
+
 ### Evidence
 
 ![Patient PDF password cracking](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f12%20patient-portal-pdf-hash-extract.png?)
@@ -151,7 +154,6 @@ The passwords recovered were:
 ![Patient PDF password cracking](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f115%20patient-pdf2-password-cracking.png?)
 ![Patient PDF password cracking](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f16-patient-pdf3-hash-extract.png?)
 ![Patient PDF password cracking](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f17-patient-pdf3-password-cracker.png?)
-
 
 
 ### Result
@@ -189,7 +191,7 @@ The backup exposes every employee's personal data (names, national IDs, phones, 
 | robots.txt discloses sensitive paths | Low |
 | No WAF / no DNSSEC / exposed error log | Low |
 
-Full write-up: W4-PM-FINAL-Report-B083-Aime-Botuku.docx
+Full write-up: [WK4-PM-FINAL-Report-B083-Balogun-Esther.docx](./WK4-PM-FINAL-Report-B083-Balogun-Esther.docx)
 
 
 ## Author
