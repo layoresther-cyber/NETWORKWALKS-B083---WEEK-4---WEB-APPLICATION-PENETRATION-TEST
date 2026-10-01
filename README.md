@@ -60,7 +60,7 @@ The following reconnaissance tools were used to gather information about the tar
 | Nikto | Scanned the web server for potentially interesting files, configurations, and known issues |
 | robots.txt | Reviewed the site's robots exclusion file for potentially exposed paths and resources |
 
-![whois](f01-whois.png)
+![whois](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f01%20whois.png?)
 ![nslookup](f02-nslookup.png)
 ![whatweb](f03-whatweb.png)
 ![wafw00f](f04-wafw00f.png)
