@@ -193,8 +193,18 @@ The backup exposes every employee's personal data (names, national IDs, phones, 
 
 Full write-up: [WK4-PM-FINAL-Report-B083-Balogun-Esther.docx](./WK4-PM-FINAL-Report-B083-Balogun-Esther.docx)
 
+## What I Learned
+- Reconnaissance tools can reveal important details about a target before any further testing begings.
+- Small exposures, such as accessible files or information, can create significant security risks.
+- A **targeted wordlist** can be much more effective than a generic one when testing password security.
+- Good evidence and clear documentation are essential throughout a penetration test.
 
 ## Author
 
 **Balogun Esther** - Cybersecurity Professional | Batch B083
+
+LinkedIn:
+https://www.linkedin.com/in/esther-balogun
+
+## Project Information
 Networkwalks Cybersecurity & Ethical Hacking Internship | Week 04
