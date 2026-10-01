@@ -62,8 +62,8 @@ The following reconnaissance tools were used to gather information about the tar
 
 ![whois](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f01%20whois.png?)
 ![nslookup](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f04%20nslookup.png?)
-![whatweb](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f02%20whatweb.png?)
-![wafw00f](f04-wafw00f.png)
+![whatweb](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f02%20whatweb.png)
+![wafw00f]()
 ![dnsrecon](f05-dnsrecon.png)
 
 **Findings:** Namecheap shared hosting (IP redacted-in-summary), LiteSpeed + OpenResty/CDN, Mediroza CMS 1.4.2, **WAF**, **SPF `~all`** (softfail) + **DMARC `p=none`** (e-mail spoofing exposure), **DNSSEC unsigned**.
