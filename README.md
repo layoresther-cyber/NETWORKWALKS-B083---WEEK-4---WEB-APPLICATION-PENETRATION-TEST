@@ -150,7 +150,7 @@ The passwords recovered were:
 ![Patient PDF password cracking](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f115%20patient-pdf2-hash-extract.png?)
 ![Patient PDF password cracking](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f115%20patient-pdf2-password-cracking.png?)
 ![Patient PDF password cracking](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f16-patient-pdf3-hash-extract.png?)
-![Patient PDF password cracking](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f16-patient-pdf3-hash-extract.png?)
+![Patient PDF password cracking](https://github.com/layoresther-cyber/NETWORKWALKS-B083---WEEK-4---WEB-APPLICATION-PENETRATION-TEST/blob/main/f17-patient-pdf3-password-cracker.png?)
 
 
 
